@@ -20,17 +20,6 @@ function sumarvalores(event) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 //////////////// CLASE ESCUCHAR ////////////////////////////////////777
 
 // const h1 = document.querySelector('h1');
